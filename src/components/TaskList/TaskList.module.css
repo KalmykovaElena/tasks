@@ -1,0 +1,18 @@
+.tasklist {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.controls {
+  display: flex;
+  gap: 1rem;
+}
+.title{
+    font-size: 3rem;
+    font-style: italic;
+}

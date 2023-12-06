@@ -1,0 +1,17 @@
+.paragraph{
+    min-height: 4rem;
+    background-color: #6bb0d8d6;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+.chackableTag{
+    background-color: rgb(13 201 163);
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+.chackableTag:hover{
+    background-color: rgb(127, 248, 224);
+}
+.filter{
+    flex-grow: 1;
+}

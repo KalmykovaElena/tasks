@@ -1,0 +1,29 @@
+:global .ant-card-body {
+  overflow: hidden;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+:global .ant-modal-title {
+  overflow: hidden;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.icons {
+  display: flex;
+  gap: 0.5rem;
+}
+.modalBody {
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.tags {
+  color: blue;
+  font-weight: bold;
+  font-style: italic;
+}
+
+
